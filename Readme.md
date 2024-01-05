@@ -1,1 +1,1 @@
-# @whycue
+# @life long study
