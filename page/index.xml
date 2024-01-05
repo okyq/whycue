@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on whycue-YQ</title>
+        <link>https://whycue.com/page/</link>
+        <description>Recent content in Pages on whycue-YQ</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>whycue</copyright>
+        <lastBuildDate>Sun, 24 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://whycue.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>关于</title>
+        <link>https://whycue.com/about/</link>
+        <pubDate>Sun, 24 Dec 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://whycue.com/about/</guid>
+        <description>&lt;h1 id=&#34;关于域名&#34;&gt;关于域名：&lt;/h1&gt;
+&lt;p&gt;域名取自两个好记的字母：“YQ”—“whycue”&lt;/p&gt;
+&lt;h1 id=&#34;关于这个网站&#34;&gt;关于这个网站&lt;/h1&gt;
+&lt;p&gt;朋友圈狗都不用&lt;br&gt;
+反正大伙都不认识&lt;br&gt;
+想发啥就发啥&lt;br&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>时间轴</title>
+        <link>https://whycue.com/archives/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://whycue.com/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>https://whycue.com/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://whycue.com/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

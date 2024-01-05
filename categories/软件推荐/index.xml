@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>软件推荐 on whycue-YQ</title>
+        <link>https://whycue.com/categories/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</link>
+        <description>Recent content in 软件推荐 on whycue-YQ</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>whycue</copyright>
+        <lastBuildDate>Tue, 26 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://whycue.com/categories/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>anytype使用教程</title>
+        <link>https://whycue.com/p/how-to-use-anytype/</link>
+        <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://whycue.com/p/how-to-use-anytype/</guid>
+        <description>&lt;img src="https://whycue.com/p/how-to-use-anytype/anytype.png" alt="Featured image of post anytype使用教程" /&gt;&lt;h2 id=&#34;各种笔记软件对比&#34;&gt;各种笔记软件对比&lt;/h2&gt;
+&lt;p&gt;几乎试用了市面上所有的笔记软件，包括：notion、onenote、印象笔记、obsidian、思源笔记等。其中广受好评的有notion、obsidian、思源笔记。这些双链笔记能够在很多地方提高效率。但在试用过程中我也发现了他们或多或少的问题，挑几个比较经典的来说：&lt;/p&gt;
+&lt;h3 id=&#34;obsidian&#34;&gt;obsidian：&lt;/h3&gt;
+&lt;p&gt;优点：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;毫无入侵的markdown格式，迁移极其方便。&lt;/li&gt;
+&lt;li&gt;本地优先。
+缺点&lt;/li&gt;
+&lt;li&gt;繁多的插件，繁杂的设置，让人很容易将注意力转移到折腾软件上，而不是注重于内容的输出。&lt;/li&gt;
+&lt;li&gt;同步的不稳定性。官方同步太贵，目前非官方的同步方式有四种：live-sync插件，remotely-save插件、syncthing软件和git同步。即使是最接近官方的live-sync，其使用体验也不太好，我出现过笔记丢失的情况。&lt;/li&gt;
+&lt;li&gt;对表格的支持不太好。（新版obsidian貌似已经改进）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;思源笔记&#34;&gt;思源笔记&lt;/h3&gt;
+&lt;p&gt;优点&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;本地优先，官方提供了便捷的备份同步选项：s3。&lt;/li&gt;
+&lt;li&gt;支持pdf批注。
+缺点&lt;/li&gt;
+&lt;li&gt;开发者有黑历史。&lt;/li&gt;
+&lt;li&gt;使用s3同步时，无法清除s3上无效的引用或附件，导致s3体积越来越大。几乎时笔记本体的好几倍大小。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;notion&#34;&gt;Notion&lt;/h3&gt;
+&lt;p&gt;我不使用Notion的原因只有一个：数据不在自己手里，让人感到不安心。&lt;/p&gt;
+&lt;h2 id=&#34;anytype介绍和使用教程&#34;&gt;anytype介绍和使用教程&lt;/h2&gt;
+&lt;h3 id=&#34;anytype介绍&#34;&gt;anytype介绍&lt;/h3&gt;
+&lt;p&gt;试用这些软件之后，我开始停下来思考自己真正的需求&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;全平台使用&lt;/li&gt;
+&lt;li&gt;本地优先&lt;/li&gt;
+&lt;li&gt;同步方便&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;后面看到了anytype这款软件，试用的时候，我发现它完美契合了我所有的需求&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;本地优先，数据掌握在自己手中&lt;/li&gt;
+&lt;li&gt;官方提供了免费的备份服务器，容量1g。&lt;/li&gt;
+&lt;li&gt;最为惊喜的是它的同步功能，当设备处于同一内网时，数据会自动同步&lt;/li&gt;
+&lt;li&gt;导出导入方便，支持markdown。&lt;/li&gt;
+&lt;li&gt;支持kanban，日历，数据库等&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;anytype教程&#34;&gt;anytype教程&lt;/h3&gt;
+&lt;p&gt;anytype有几个重要的概念
+块 对象 类型 关联&lt;/p&gt;
+&lt;p&gt;。。。。后续更新&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
